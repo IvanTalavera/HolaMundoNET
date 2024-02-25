@@ -1,0 +1,30 @@
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\appsettings.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.staticwebassets.runtime.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.exe
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.deps.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.runtimeconfig.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.dll
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\bin\Debug\net8.0\HolaMundo NET.pdb
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.AssemblyInfoInputs.cache
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.AssemblyInfo.cs
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.csproj.CoreCompileInputs.cache
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.RazorAssemblyInfo.cache
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.RazorAssemblyInfo.cs
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets\msbuild.HolaMundo NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets\msbuild.build.HolaMundo NET.props
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HolaMundo NET.props
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HolaMundo NET.props
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\scopedcss\bundle\HolaMundo NET.styles.css
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\scopedcss\projectbundle\HolaMundo NET.bundle.scp.css
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.dll
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\refint\HolaMundo NET.dll
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.pdb
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\HolaMundo NET.genruntimeconfig.cache
+C:\Users\ivant\OneDrive\Escritorio\PRECITOOL\DevOps\HolaMundo NET\obj\Debug\net8.0\ref\HolaMundo NET.dll
